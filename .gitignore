@@ -1,0 +1,18 @@
+# Keep this repository limited to reviewed showcase material.
+.env
+.env.*
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*.apk
+*.aab
+google-services.json
+GoogleService-Info.plist
+*service-account*.json
+*serviceAccount*.json
+node_modules/
+build/
+.DS_Store
+Thumbs.db
